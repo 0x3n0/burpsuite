@@ -13,7 +13,6 @@ Manifest-Version: 1.0
 Can-Retransform-Classes: true
 Main-Class: com.eno.burpkey.KeygenForm
 Premain-Class: com.eno.burpkey.Loader
-
 ```
 
 now compile class file
