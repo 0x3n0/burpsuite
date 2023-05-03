@@ -1,6 +1,6 @@
 ![burpsuite-profesional](burpsuite.webp)
 
-downloads burpsuite pro click link [here](https://portswigger.net/burp/releases)
+download professional burpsuite here [here](https://portswigger.net/burp/releases)
 
 compile java files
 ```
